@@ -7,3 +7,6 @@ nltk
 jupyter
 statsmodels
 openpyxl
+graphviz
+pydotplus
+six
